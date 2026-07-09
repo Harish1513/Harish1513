@@ -4,7 +4,7 @@
 <!-- HERO BANNER — black & gold -->
 <!-- ────────────────────────────────────────────────────────────── -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Harishwar%20M&fontSize=46&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C&descAlignY=55&descSize=18&descColor=E8C766)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=HARISHWAR%20M&fontSize=46&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20&descAlignY=55&descSize=18&descColor=E8C766)
 
 <!-- TYPING SVG -->
 
