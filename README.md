@@ -178,8 +178,8 @@ motto:     "Code. Learn. Build. Grow."
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Harish1513&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=E8C766&border_radius=12"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1513&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=E8C766&langs_count=8&border_radius=12"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Harish1513&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=E8C766&border_radius=12&cache_seconds=86400"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1513&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=E8C766&langs_count=8&border_radius=12&cache_seconds=86400"/>
 
 <img src="https://streak-stats.demolab.com?user=Harish1513&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8C766&dates=8B8B8B&currStreakNum=E8C766&sideNums=E8C766&stroke=000000&border_radius=12"/>
 
