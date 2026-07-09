@@ -183,9 +183,6 @@ motto:     "Code. Learn. Build. Grow."
 <img src="https://streak-stats.demolab.com?user=Harish1513&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8C766&dates=8B8B8B&currStreakNum=E8C766&sideNums=E8C766&stroke=000000&border_radius=12"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish1513&bg_color=000000&color=D4AF37&line=D4AF37&point=E8C766&area=true&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harish1513&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
 </div>
 
 <!-- ────────────────────────────────────────────────────────────── -->
