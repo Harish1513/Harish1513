@@ -107,7 +107,7 @@ motto:     "Code. Learn. Build. Grow."
 ## ⚜️ Experience
 
 <details open>
-<summary><b>💼 Programmer Associate — Electems Business Solutions</b></summary>
+<summary><b>Software Developer — Electems Business Solutions</b></summary>
 <br/>
 
 > `React.js` `Node.js` `Express.js` `MongoDB` `Git`
