@@ -29,11 +29,10 @@
 
 ## ⚜️ About Me
 
-I'm **Harishwar M**, an MCA graduate working as a **Software Developer** at **Electems Business Solutions**, specializing in the **MERN stack**. I build scalable, production-ready web applications and am constantly sharpening my engineering craft — one clean commit at a time.
+I'm **Harishwar M**, an MCA graduate, specializing in the **MERN stack**. I build scalable, production-ready web applications and am constantly sharpening my engineering craft — one clean commit at a time.
 
 ```yaml
 name:      HARISHWAR M
-role:      SOFTWARE DEVELOPER
 focus:     MERN Stack Development
 based_in:  India
 education: M.C.A, Sri Venkateshwara College
