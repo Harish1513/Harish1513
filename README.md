@@ -8,7 +8,7 @@
 
 <!-- TYPING SVG -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&lines=Every+line+of+code+builds+the+engineer+I+become;Full-Stack+MERN+Developer;Software+Developer+%40+Electems+Business+Solutions;Turning+Ideas+Into+Scalable+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&lines=Every+line+of+code+builds+the+engineer+I+become;Full-Stack+MERN+Developer;Turning+Ideas+Into+Scalable+Products)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/-‎-D4AF37?style=flat-square" height="3" width="600"/>
 
