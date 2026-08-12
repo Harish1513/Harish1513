@@ -16,11 +16,19 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/Harish1513)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=D4AF37)](https://www.linkedin.com/in/harishwar-m/)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=D4AF37)](mailto:harishwar1513@gmail.com)
+<a href="https://github.com/Harish1513">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/harishwar-m/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
+</a>
+
+<a href="mailto:harishwar1513@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Harish1513&style=flat-square&color=D4AF37&label=PROFILE+VIEWS"/>
 
@@ -28,214 +36,162 @@
 
 ---
 
-## `whoami`
+## Who Am I?
 
-```text
-HARISHWAR M
-────────────────────────────────────────────
+I'm **Harishwar M**, an MCA graduate and **Full-Stack MERN Developer** with a strong interest in building modern web applications.
 
-Role        → Full-Stack MERN Developer
-Education   → MCA | 2023 — 2025
-Location    → India
+My primary focus is the **MERN stack — MongoDB, Express.js, React.js, and Node.js**. I enjoy working across the complete application flow, from creating responsive user interfaces to developing REST APIs, handling authentication, and integrating databases.
 
-Frontend    → React.js, JavaScript, HTML, CSS
-Backend     → Node.js, Express.js, REST APIs
-Database    → MongoDB, SQL
-Auth        → JWT
-Tools       → Git, GitHub, Postman
+I have built full-stack projects such as a **Flight Booking System** and a **Cafe Management System**, gaining hands-on experience in frontend development, backend development, API integration, database operations, and authentication.
 
-Currently   → Docker, AWS, System Design
+Currently, I'm expanding my knowledge in **SQL, Docker, AWS, System Design, and software engineering practices** while continuing to strengthen my core development skills.
 
-Mindset     → Learn → Build → Break → Fix → Repeat
-```
+> **I don't just want to write code.
+> I want to understand how it works, why it works, and how to make it better.**
 
 ---
 
-## `01 / ABOUT`
+## Tech Stack
 
-I'm **Harishwar M**, an MCA graduate focused on Full-Stack Web Development.
+### Frontend
 
-My primary stack is **MERN**, and I enjoy working across the complete application flow — from building responsive React interfaces to designing backend APIs and connecting them with databases.
-
-I'm currently improving my understanding of **software architecture, Docker, AWS, system design, and production development practices**.
-
-```text
-I don't just want to write code.
-
-I want to understand
-how the code works,
-why it works,
-and how to make it better.
-```
-
----
-
-## `02 / TECH STACK`
-
-<div align="center">
-
-### FRONTEND
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
-### BACKEND
+### Backend
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### DATABASE
+### Database
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### TOOLS & CLOUD
+### Authentication & APIs
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
+
+</p>
+
+### Tools & Platforms
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />
-
-</div>
-
----
-
-## `03 / EXPERIENCE`
-
-### Software Developer
-
-**Electems Business Solutions**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Git`
-
-* Developing web application features using the MERN stack.
-* Building frontend functionality with React.js.
-* Developing and integrating REST APIs using Node.js and Express.js.
-* Working with MongoDB for application data management.
-* Debugging application issues and collaborating with developers on feature development.
+</p>
 
 ---
 
-### MERN Stack Development Trainee
+## Learning & Improving
 
-**JSpiders | 2025 — 2026**
+```text
+JavaScript
+    Advanced Concepts • Async Programming • ES6+
 
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+Backend Development
+    API Design • Authentication • Error Handling
 
-* Completed hands-on MERN stack development training.
-* Built full-stack applications using React, Node.js, Express.js and MongoDB.
-* Implemented REST APIs and JWT authentication.
-* Practiced frontend-backend integration and database operations.
+Databases
+    MongoDB • SQL • Database Design
+
+Docker
+    Containers • Images • Docker Compose
+
+AWS
+    EC2 • S3 • Deployment
+
+System Design
+    Scalability • Caching • Load Balancing
+
+Software Engineering
+    SOLID Principles • Design Patterns • Clean Architecture
+```
 
 ---
 
-### Frontend Technologies Trainee
+## Projects
+
+### Flight Booking System
+
+**React.js • Node.js • Express.js • MongoDB • JWT**
+
+A full-stack flight booking application designed to handle flight search, user authentication, booking management, and administrative operations.
+
+**Key Features**
+
+* User registration and login
+* JWT-based authentication
+* Flight search and flight details
+* Passenger and booking management
+* Booking history
+* Booking cancellation
+* Automatic seat restoration
+* Admin dashboard
+* RESTful backend APIs
+* MongoDB database integration
+
+[View Project](https://github.com/Harish1513)
+
+---
+
+### Cafe Management System
+
+**React.js • Node.js • Express.js • MongoDB**
+
+A full-stack cafe management application focused on managing menus and customer orders through a responsive web interface.
+
+**Key Features**
+
+* Responsive React frontend
+* Menu management
+* Order management
+* REST API integration
+* MongoDB integration
+* Admin functionality
+* Modular backend structure
+
+[View Project](https://github.com/Harish1513)
+
+---
+
+## Training & Certifications
+
+### MERN Stack Development
+
+**JSpiders | 2025 – 2026**
+
+* Completed hands-on training in MongoDB, Express.js, React.js, and Node.js.
+* Built full-stack web applications using the MERN stack.
+* Developed REST APIs and integrated frontend applications with backend services.
+* Implemented JWT-based authentication.
+* Worked with MongoDB database operations and application architecture.
+
+---
+
+### Frontend Technologies
 
 **SmartCliff Learning Solutions LLP | 2024**
 
-`HTML` `CSS` `Bootstrap` `JavaScript`
-
+* Trained in HTML, CSS, Bootstrap, and JavaScript.
 * Built responsive web interfaces.
-* Practiced modern HTML, CSS and JavaScript fundamentals.
-* Worked with Bootstrap for responsive layouts.
+* Practiced responsive design and frontend development fundamentals.
 
 ---
 
-## `04 / SELECTED PROJECTS`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>FLIGHT BOOKING SYSTEM</h3>
-
-<b>React • Node • Express • MongoDB • JWT</b>
-
-<br/><br/>
-
-A full-stack flight booking platform with authentication, flight search, booking management and admin functionality.
-
-<br/><br/>
-
-<b>Built:</b>
-
-<br/>
-
-Authentication
-Flight Search
-Booking System
-Cancellation
-Seat Restoration
-Booking History
-Admin Dashboard
-REST APIs
-
-</td>
-
-<td width="50%">
-
-<h3>CAFE MANAGEMENT SYSTEM</h3>
-
-<b>React • Node • Express • MongoDB</b>
-
-<br/><br/>
-
-A full-stack cafe management application focused on menu and order management with a responsive frontend and modular backend.
-
-<br/><br/>
-
-<b>Built:</b>
-
-<br/>
-
-Menu Management
-Order Management
-REST APIs
-MongoDB Integration
-Admin Features
-Responsive UI
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `05 / ENGINEERING FOCUS`
-
-```text
-CURRENTLY EXPLORING
-────────────────────────────────────────
-
-01  JavaScript
-    └── Advanced concepts & async programming
-
-02  Backend
-    └── API design & authentication
-
-03  Databases
-    └── MongoDB + SQL + database design
-
-04  Docker
-    └── Containers & application deployment
-
-05  AWS
-    └── EC2 • S3 • Deployment
-
-06  System Design
-    └── Scalability • Caching • Load Balancing
-
-07  Clean Code
-    └── SOLID • Design Patterns • Architecture
-```
-
----
-
-## `06 / GITHUB ANALYTICS`
+## GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harish1513&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=E8E8E8&icon_color=D4AF37&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish1513&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8C766&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Harish1513&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8C766&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="48%"/>
 
 <br/><br/>
 
@@ -245,47 +201,31 @@ CURRENTLY EXPLORING
 
 ---
 
-## `07 / CONTRIBUTION`
+## Education
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Harish1513/Harish1513/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-## `08 / EDUCATION`
-
-```text
-M.C.A.
-Sri Venkateshwara College of Computer Application
-and Management
-2023 — 2025
-
-B.Sc. Computer Science
-Arumugam Pillai Seethai Ammal College
-2020 — 2023
-```
+| Degree                     | Institution                                                      | Year        | Score    |
+| -------------------------- | ---------------------------------------------------------------- | ----------- | -------- |
+| **M.C.A.**                 | Sri Venkateshwara College of Computer Application and Management | 2023 – 2025 | 7.2 / 10 |
+| **B.Sc. Computer Science** | Arumugam Pillai Seethai Ammal College                            | 2020 – 2023 | 67%      |
+| **HSC**                    | Karaikudi Maharishi Vidya Mandir Hr. Sec. School                 | 2020        | 61.1%    |
+| **SSLC**                   | Karaikudi Maharishi Vidya Mandir Hr. Sec. School                 | 2018        | 80.2%    |
 
 ---
 
-## `09 / THE ROAD AHEAD`
+## Beyond the Code
 
 ```text
-                     CURRENT
-                        │
-                        ▼
-                 MERN DEVELOPMENT
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-       Docker          AWS       System Design
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-               STRONG SOFTWARE
-                  ENGINEER
+Learning
+    Constantly improving technical fundamentals
+
+Building
+    Turning concepts into working applications
+
+Problem Solving
+    Understanding the problem before writing the solution
+
+Growth
+    Becoming a stronger software engineer one step at a time
 ```
 
 ---
@@ -304,6 +244,8 @@ Arumugam Pillai Seethai Ammal College
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Code-000000?style=for-the-badge\&logo=github\&logoColor=D4AF37)](https://github.com/Harish1513)
+<a href="https://github.com/Harish1513">
+<img src="https://img.shields.io/badge/Explore_My_Code-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+</a>
 
 </div>
