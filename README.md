@@ -134,7 +134,7 @@ A full-stack cafe management application focused on managing menus and customer 
 * Admin functionality
 * Modular backend structure
 
-[View Project]([https://github.com/Harish1513](https://cafe-wild-beans-frontend.onrender.com))
+[View Project]([(https://cafe-wild-beans-frontend.onrender.com)])
 
 ---
 ### Flight Booking System
