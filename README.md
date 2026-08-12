@@ -1,255 +1,309 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=210&section=header&text=HARISHWAR%20M&fontSize=48&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descSize=20&descColor=E8C766" width="100%"/>
+# HARISHWAR M
+
+### FULL-STACK MERN DEVELOPER
+
+`BUILDING • LEARNING • DEBUGGING • IMPROVING`
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;Building+Practical+Web+Applications;Learning+Today%2C+Building+Better+Tomorrow" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=2&section=header" width="80%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=I+build+full-stack+web+applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+ideas+into+working+software;Always+learning%2C+always+building" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://github.com/Harish1513">
-<img src="https://komarev.com/ghpvc/?username=Harish1513&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS"/>
-</a>
-
-<a href="https://github.com/Harish1513?tab=followers">
-<img src="https://img.shields.io/github/followers/Harish1513?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=000000"/>
-</a>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/Harish1513)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=D4AF37)](https://www.linkedin.com/in/harishwar-m/)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=D4AF37)](mailto:harishwar1513@gmail.com)
 
 <br/>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=Harish1513&style=flat-square&color=D4AF37&label=PROFILE+VIEWS"/>
 
-I'm **Harishwar M**, an MCA graduate and Full-Stack MERN Developer focused on building practical web applications using modern JavaScript technologies.
+</div>
 
-I enjoy working across the frontend and backend, building REST APIs, integrating databases, implementing authentication, and continuously improving my software development skills.
+---
 
-```yaml
-name:        HARISHWAR M
-role:        Full-Stack MERN Developer
-education:   M.C.A.
-location:    India
-focus:       JavaScript | React | Node.js | Express | MongoDB
-currently:   System Design | Docker | AWS
-motto:       "Code. Learn. Build. Grow."
+## `whoami`
+
+```text
+HARISHWAR M
+────────────────────────────────────────────
+
+Role        → Full-Stack MERN Developer
+Education   → MCA | 2023 — 2025
+Location    → India
+
+Frontend    → React.js, JavaScript, HTML, CSS
+Backend     → Node.js, Express.js, REST APIs
+Database    → MongoDB, SQL
+Auth        → JWT
+Tools       → Git, GitHub, Postman
+
+Currently   → Docker, AWS, System Design
+
+Mindset     → Learn → Build → Break → Fix → Repeat
 ```
 
 ---
 
-## Tech Stack
+## `01 / ABOUT`
 
-### Frontend
+I'm **Harishwar M**, an MCA graduate focused on Full-Stack Web Development.
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=D4AF37"/>
-</p>
+My primary stack is **MERN**, and I enjoy working across the complete application flow — from building responsive React interfaces to designing backend APIs and connecting them with databases.
 
-### Backend
+I'm currently improving my understanding of **software architecture, Docker, AWS, system design, and production development practices**.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
-</p>
+```text
+I don't just want to write code.
 
-### Databases
-
-<p align="center">
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37"/>
-</p>
-
-### Programming
-
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=D4AF37"/>
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=D4AF37"/>
-</p>
+I want to understand
+how the code works,
+why it works,
+and how to make it better.
+```
 
 ---
 
-## Experience
+## `02 / TECH STACK`
 
-<details open>
-<summary><b>Software Developer — Electems Business Solutions</b></summary>
+<div align="center">
 
-<br/>
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### TOOLS & CLOUD
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />
+
+</div>
+
+---
+
+## `03 / EXPERIENCE`
+
+### Software Developer
+
+**Electems Business Solutions**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Git`
 
-* Working on web application development using the MERN stack.
-* Developing and maintaining frontend features using React.js.
-* Building and integrating backend APIs using Node.js and Express.js.
+* Developing web application features using the MERN stack.
+* Building frontend functionality with React.js.
+* Developing and integrating REST APIs using Node.js and Express.js.
 * Working with MongoDB for application data management.
-* Collaborating with developers on feature development, debugging, and improvements.
+* Debugging application issues and collaborating with developers on feature development.
 
-</details>
+---
 
-<br/>
+### MERN Stack Development Trainee
 
-<details>
-<summary><b>MERN Stack Development Trainee — JSpiders</b></summary>
+**JSpiders | 2025 — 2026**
 
-<br/>
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
 
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `REST APIs`
+* Completed hands-on MERN stack development training.
+* Built full-stack applications using React, Node.js, Express.js and MongoDB.
+* Implemented REST APIs and JWT authentication.
+* Practiced frontend-backend integration and database operations.
 
-* Completed a 6-month MERN Stack Development program.
-* Built full-stack applications using React, Node.js, Express.js, and MongoDB.
-* Implemented REST APIs and JWT-based authentication.
-* Worked with frontend-backend integration and database operations.
+---
 
-</details>
+### Frontend Technologies Trainee
 
-<br/>
-
-<details>
-<summary><b>Frontend Technologies Certification — SmartCliff Learning Solutions LLP</b></summary>
-
-<br/>
+**SmartCliff Learning Solutions LLP | 2024**
 
 `HTML` `CSS` `Bootstrap` `JavaScript`
 
-* Completed hands-on training in frontend web technologies.
-* Built responsive interfaces using HTML, CSS, Bootstrap, and JavaScript.
-* Practiced responsive design and cross-device layouts.
-
-</details>
+* Built responsive web interfaces.
+* Practiced modern HTML, CSS and JavaScript fundamentals.
+* Worked with Bootstrap for responsive layouts.
 
 ---
 
-## Featured Projects
-
-### Flight Booking System
-
-**React.js • Node.js • Express.js • MongoDB • JWT**
-
-A full-stack flight booking application with separate user and admin functionality.
-
-**Key Features**
-
-* User registration and JWT authentication
-* Flight search and flight details
-* Flight booking and passenger management
-* Booking history
-* Booking cancellation
-* Automatic seat restoration after cancellation
-* Admin dashboard with booking and revenue statistics
-* RESTful backend APIs
-
-[View Project](https://github.com/Harish1513)
-
----
-
-### Cafe Management System
-
-**React.js • Node.js • Express.js • MongoDB**
-
-A full-stack cafe management application designed to manage menu items and customer orders.
-
-**Key Features**
-
-* Responsive React frontend
-* Menu management
-* Order management
-* REST API integration
-* MongoDB database
-* Modular backend architecture
-
-[View Project](https://github.com/Harish1513)
-
----
-
-## GitHub Analytics
+## `04 / SELECTED PROJECTS`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harish1513&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8C766&dates=8B8B8B&currStreakNum=E8C766&sideNums=E8C766&stroke=000000&border_radius=12"/>
+<table>
+<tr>
+<td width="50%">
+
+<h3>FLIGHT BOOKING SYSTEM</h3>
+
+<b>React • Node • Express • MongoDB • JWT</b>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish1513&bg_color=000000&color=D4AF37&line=D4AF37&point=E8C766&area=true&hide_border=true"/>
+A full-stack flight booking platform with authentication, flight search, booking management and admin functionality.
+
+<br/><br/>
+
+<b>Built:</b>
+
+<br/>
+
+Authentication
+Flight Search
+Booking System
+Cancellation
+Seat Restoration
+Booking History
+Admin Dashboard
+REST APIs
+
+</td>
+
+<td width="50%">
+
+<h3>CAFE MANAGEMENT SYSTEM</h3>
+
+<b>React • Node • Express • MongoDB</b>
+
+<br/><br/>
+
+A full-stack cafe management application focused on menu and order management with a responsive frontend and modular backend.
+
+<br/><br/>
+
+<b>Built:</b>
+
+<br/>
+
+Menu Management
+Order Management
+REST APIs
+MongoDB Integration
+Admin Features
+Responsive UI
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Education
-
-| Degree                     | Institution                                                      |        Year |    Score |
-| -------------------------- | ---------------------------------------------------------------- | ----------: | -------: |
-| **M.C.A.**                 | Sri Venkateshwara College of Computer Application and Management | 2023 – 2025 | 7.2 / 10 |
-| **B.Sc. Computer Science** | Arumugam Pillai Seethai Ammal College                            | 2020 – 2023 |      67% |
-| **HSC**                    | Karaikudi Maharishi Vidya Mandir Hr. Sec. School                 |        2020 |    61.1% |
-| **SSLC**                   | Karaikudi Maharishi Vidya Mandir Hr. Sec. School                 |        2018 |    80.2% |
-
----
-
-## Currently Learning
+## `05 / ENGINEERING FOCUS`
 
 ```text
-System Design
-├── Scalability
-├── Load Balancing
-└── Caching
+CURRENTLY EXPLORING
+────────────────────────────────────────
 
-Docker
-├── Containers
-├── Images
-└── Docker Compose
+01  JavaScript
+    └── Advanced concepts & async programming
 
-AWS
-├── EC2
-├── S3
-└── Deployment
+02  Backend
+    └── API design & authentication
 
-Software Engineering
-├── Clean Architecture
-├── SOLID Principles
-└── Design Patterns
+03  Databases
+    └── MongoDB + SQL + database design
+
+04  Docker
+    └── Containers & application deployment
+
+05  AWS
+    └── EC2 • S3 • Deployment
+
+06  System Design
+    └── Scalability • Caching • Load Balancing
+
+07  Clean Code
+    └── SOLID • Design Patterns • Architecture
 ```
 
 ---
 
-## Connect With Me
+## `06 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<a href="mailto:harishwar1513@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Harish1513&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=E8E8E8&icon_color=D4AF37&rank_icon=github" width="48%"/>
 
-<a href="https://www.linkedin.com/in/harishwar-m/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
-</a>
-
-<a href="https://github.com/Harish1513">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish1513&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8C766&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="48%"/>
 
 <br/><br/>
 
-<i>"Code. Learn. Build. Grow."</i>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish1513&bg_color=000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" width="96%"/>
 
 </div>
 
+---
+
+## `07 / CONTRIBUTION`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harish1513/Harish1513/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+---
+
+## `08 / EDUCATION`
+
+```text
+M.C.A.
+Sri Venkateshwara College of Computer Application
+and Management
+2023 — 2025
+
+B.Sc. Computer Science
+Arumugam Pillai Seethai Ammal College
+2020 — 2023
+```
+
+---
+
+## `09 / THE ROAD AHEAD`
+
+```text
+                     CURRENT
+                        │
+                        ▼
+                 MERN DEVELOPMENT
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+       Docker          AWS       System Design
+          │             │             │
+          └─────────────┼─────────────┘
+                        ▼
+               STRONG SOFTWARE
+                  ENGINEER
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=2&section=footer" width="80%"/>
+
+<br/><br/>
+
+### `CODE. LEARN. BUILD. GROW.`
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
+<i>"Every line of code I write today builds the engineer I become tomorrow."</i>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Code-000000?style=for-the-badge\&logo=github\&logoColor=D4AF37)](https://github.com/Harish1513)
+
+</div>
