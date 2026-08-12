@@ -93,25 +93,25 @@ Currently, I'm expanding my knowledge in **SQL, Docker, AWS, System Design, and 
 
 ```text
 JavaScript
-    Advanced Concepts • Async Programming • ES6+
+    ES6+ • Async Programming • Promises • DOM
 
-Backend Development
-    API Design • Authentication • Error Handling
+React.js
+    Components • Hooks • State Management • API Integration
+
+Node.js & Express.js
+    REST APIs • Middleware • Authentication • Error Handling
 
 Databases
-    MongoDB • SQL • Database Design
+    MongoDB • Mongoose • SQL • CRUD Operations
 
-Docker
-    Containers • Images • Docker Compose
+Authentication
+    JWT • Login/Register • Protected Routes
 
-AWS
-    EC2 • S3 • Deployment
+API Development
+    REST APIs • Axios • Postman • Frontend Integration
 
-System Design
-    Scalability • Caching • Load Balancing
-
-Software Engineering
-    SOLID Principles • Design Patterns • Clean Architecture
+Git & GitHub
+    Version Control • Branching • Repository Management
 ```
 
 ---
