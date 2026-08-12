@@ -118,6 +118,25 @@ Software Engineering
 
 ## Projects
 
+### Cafe Management System
+
+**React.js • Node.js • Express.js • MongoDB**
+
+A full-stack cafe management application focused on managing menus and customer orders through a responsive web interface.
+
+**Key Features**
+
+* Responsive React frontend
+* Menu management
+* Order management
+* REST API integration
+* MongoDB integration
+* Admin functionality
+* Modular backend structure
+
+[View Project](https://github.com/Harish1513)
+
+---
 ### Flight Booking System
 
 **React.js • Node.js • Express.js • MongoDB • JWT**
@@ -136,26 +155,6 @@ A full-stack flight booking application designed to handle flight search, user a
 * Admin dashboard
 * RESTful backend APIs
 * MongoDB database integration
-
-[View Project](https://github.com/Harish1513)
-
----
-
-### Cafe Management System
-
-**React.js • Node.js • Express.js • MongoDB**
-
-A full-stack cafe management application focused on managing menus and customer orders through a responsive web interface.
-
-**Key Features**
-
-* Responsive React frontend
-* Menu management
-* Order management
-* REST API integration
-* MongoDB integration
-* Admin functionality
-* Modular backend structure
 
 [View Project](https://github.com/Harish1513)
 
