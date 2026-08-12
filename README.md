@@ -46,8 +46,8 @@ I have built full-stack projects such as a **Flight Booking System** and a **Caf
 
 Currently, I'm expanding my knowledge in **SQL, Docker, AWS, System Design, and software engineering practices** while continuing to strengthen my core development skills.
 
-> **I don't just want to write code.
-> I want to understand how it works, why it works, and how to make it better.**
+> **I don't just want to write code.**
+> **I want to understand how it works, why it works, and how to make it better.**
 
 ---
 
@@ -77,7 +77,7 @@ Currently, I'm expanding my knowledge in **SQL, Docker, AWS, System Design, and 
 
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
 
 </p>
 
@@ -134,9 +134,12 @@ A full-stack cafe management application focused on managing menus and customer 
 * Admin functionality
 * Modular backend structure
 
-[View Project]([(https://cafe-wild-beans-frontend.onrender.com)])
+**Live Demo:** [Cafe Management System](https://cafe-wild-beans-frontend.onrender.com/)
+
+**Source Code:** [GitHub Profile](https://github.com/Harish1513)
 
 ---
+
 ### Flight Booking System
 
 **React.js • Node.js • Express.js • MongoDB • JWT**
@@ -156,7 +159,7 @@ A full-stack flight booking application designed to handle flight search, user a
 * RESTful backend APIs
 * MongoDB database integration
 
-[View Project](https://github.com/Harish1513)
+**Source Code:** [GitHub Profile](https://github.com/Harish1513)
 
 ---
 
